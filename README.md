@@ -12,13 +12,13 @@ Sistema de detección de anomalías en telemetría de servidores usando una red 
 
 Ejecuta `python src/evaluate.py` tras entrenar y completa la tabla con los valores impresos (conjunto de **test**, umbral 0,5).
 
-| Métrica   | Valor        |
-|-----------|--------------|
-| Accuracy  | [RESULTADO]  |
-| Precision | [RESULTADO]  |
-| Recall    | [RESULTADO]  |
-| F1-Score  | [RESULTADO]  |
-| ROC-AUC   | [RESULTADO]  |
+| Métrica   | Valor     |
+|-----------|-----------|
+| Accuracy  | 0.9800    |
+| Precision | 0.9000    |
+| Recall    | 1.0000    |
+| F1-Score  | 0.9474    |
+| ROC-AUC   | 0.9989    |
 
 ## Arquitectura del modelo
 

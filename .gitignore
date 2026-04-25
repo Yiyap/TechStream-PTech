@@ -20,6 +20,3 @@ env/
 *.log
 .DS_Store
 Thumbs.db
-
-# Reglas de otro proyecto en el workspace local
-.cursorrules
